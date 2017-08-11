@@ -1,5 +1,15 @@
 
+/*EJERCICIO1*/
+.labo{
+	padding: 5px 150px 25px 5px;
+	background-color: #FFD700;
+}
+.labored{
+	padding: 5px 150px 25px 5px;
+	background: #DC143C;
+}
 
+/*EJERCICIO2*/
 .labo1{
 	padding: 5px 100px 25px 5px;
 	background-color: #FFD700;
@@ -10,11 +20,27 @@
 	background: #DC143C;
 	margin: 30px 5px;
 }
-.labo3{
-	padding: 5px 50px 25px 5px;
-	background-color: #FFD700;
-	margin: 30px 5px;
+/*EJERCICIO3*/
+
+.cajita1{
+  	background-color: #FFD700;
+ 	display: inline;
+ 	padding: 10px 15px;
 }
-.contenedor3 div{
-	display: inline-block;
+.cajita2{
+  	background: #DC143C;
+	padding: 10px 15px;
+ 	display: inline;
+}
+
+/*EJERCICIO4*/
+.box{
+	padding: 5px 30px 20px 10px;
+  	background-color: #FFD700;
+ 	display: inline-block;
+}
+.box2{
+	padding: 5px 150px 20px 10px;
+  	background: #DC143C;
+ 	display: inline-block;
 }
